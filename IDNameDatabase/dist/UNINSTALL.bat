@@ -1,0 +1,1 @@
+rmdir /S/Q C:\Program Files (x86)\Movie Search
